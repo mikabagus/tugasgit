@@ -1,2 +1,2 @@
 file repohistory dari pc lokal
-reset
+melakukan reset
